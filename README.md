@@ -16,6 +16,6 @@ A cada ano novas iniciativas são adotadas para reduzir as perdas com fraudes em
 
 Para visualizar a análise completa feita neste projeto, acesse este link:
 
-* https://th14g0cust0d10.github.io/Customer_Churn/
+* https://th14g0cust0d10.github.io/Claims_Fraud_Detection/
 
 ---
