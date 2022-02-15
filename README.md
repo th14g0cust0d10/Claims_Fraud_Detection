@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Claims Management Fraud Detection
+*Portfólio Thiago Gonçalves Custódio*
 
-You can use the [editor on GitHub](https://github.com/th14g0cust0d10/Claims_Fraud_Detection/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![](InsuranceFraud.jpeg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
+## 1. Descrição geral do problema
 
-### Markdown
+**Definição:** **Fraud Detection** é um conjunto de atividades realizadas para evitar que dinheiro ou propriedade sejam obtidos por meio de falsos pretextos. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*Fraud Detection* é aplicada a muitos setores, como bancos ou seguros. No setor de seguros, a fraude pode ser aplicada na alegação de um sinistro, onde investigações de sinistros de seguros se apoiam em evidências, entrevistas e registros para concluir se um sinistro é legítimo ou ilegítimo. Acidentes de carro, lesões corporais, lesões no local de trabalho e danos materiais são reivindicações de seguro comuns que exigem uma investigação. 
 
-```markdown
-Syntax highlighted code block
+A cada ano novas iniciativas são adotadas para reduzir as perdas com fraudes em sinistros e sem dúvidas que *Machine Learning está cada vez mais presentes na solução de tais incidentes*. **Modelos de aprendizado de máquina** são capazes de aprender com padrões de comportamento normal e são muito rápidos para se adaptar a mudanças desse comportamento identificando rapidamente padrões de transações fraudulentas. Isso significa que o modelo pode identificar sinistros suspeitos mesmo quando ainda não houve sequer uma investigação. 
 
-# Header 1
-## Header 2
-### Header 3
+**Objetivo:** Neste projeto iremos utilizar a linguagem **Python**, para criar um modelo de aprendizagem de máquina que possa identificar sinistros suspeitos, e qual a probabilidade desta suspeita.
 
-- Bulleted
-- List
+Para visualizar a análise completa feita neste projeto, acesse este link:
 
-1. Numbered
-2. List
+* https://th14g0cust0d10.github.io/Customer_Churn/
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/th14g0cust0d10/Claims_Fraud_Detection/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
